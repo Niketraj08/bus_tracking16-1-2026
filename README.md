@@ -60,19 +60,7 @@ A full-stack MERN application for real-time bus tracking in small cities. This s
 }
 ```
 
-### Bus Collection
-```javascript
-{
-  busNumber: String (unique),
-  currentLocation: {
-    latitude: Number,
-    longitude: Number
-  },
-  status: String,
-  route: ObjectId,
-  lastUpdated: Date
-}
-```
+
 
 ### Route Collection
 ```javascript
