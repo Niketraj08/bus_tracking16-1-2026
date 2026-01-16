@@ -46,19 +46,6 @@ A full-stack MERN application for real-time bus tracking in small cities. This s
 - **React Toastify** - Notifications
 
 
-## Database Schema
-
-### User Collection
-```javascript
-{
-  name: String,
-  email: String (unique),
-  password: String,
-  role: String (user/admin),
-  trackedBuses: [ObjectId],
-  createdAt: Date
-}
-```
 
 
 
