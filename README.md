@@ -49,26 +49,7 @@ A full-stack MERN application for real-time bus tracking in small cities. This s
 
 
 
-### Route Collection
-```javascript
-{
-  routeName: String,
-  startPoint: {
-    name: String,
-    latitude: Number,
-    longitude: Number
-  },
-  endPoint: {
-    name: String,
-    latitude: Number,
-    longitude: Number
-  },
-  stops: [ObjectId],
-  distance: Number,
-  estimatedDuration: Number,
-  createdAt: Date
-}
-```
+
 
 ### Stop Collection
 ```javascript
