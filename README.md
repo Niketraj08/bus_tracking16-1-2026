@@ -44,27 +44,6 @@ A full-stack MERN application for real-time bus tracking in small cities. This s
 - **Axios** - HTTP client
 - **Socket.IO Client** - Real-time communication
 - **React Toastify** - Notifications
-
-
-
-
-
-
-
-
-### Notification Collection
-```javascript
-{
-  message: String,
-  type: String,
-  targetUsers: [ObjectId],
-  targetRoutes: [ObjectId],
-  sentBy: ObjectId,
-  time: Date,
-  isActive: Boolean
-}
-```
-
 ## Installation & Setup
 
 ### Prerequisites
