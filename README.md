@@ -272,6 +272,4 @@ npm run build
 5. Submit a pull request
 
 
-## Support
 
-For support or questions, please open an issue on GitHub.
