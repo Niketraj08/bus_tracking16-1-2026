@@ -45,28 +45,6 @@ A full-stack MERN application for real-time bus tracking in small cities. This s
 - **Socket.IO Client** - Real-time communication
 - **React Toastify** - Notifications
 
-## Project Structure
-
-```
-bus-tracking-mern-project/
-├── backend/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── server.js
-│   └── package.json
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── utils/
-│   │   ├── context/
-│   │   ├── App.js
-│   │   └── index.js
-│   └── package.json
-└── README.md
-```
 
 ## Database Schema
 
